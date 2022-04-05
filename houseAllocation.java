@@ -11,7 +11,7 @@ import java.util.Locale;
 
 
 
-public class project1main {
+public class houseAllocation {
 	
 	
 	public static void main(String[] args) throws FileNotFoundException {
